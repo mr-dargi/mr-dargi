@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Mohammad Reza Dargi </h1>
+<h1 align="center">I'm Mohammad Reza Dargi 👋 </h1>
 <h3 align="center">Junior Backend Developer | Django & Python Enthusiast</h3>
 
 <p align="center">
@@ -7,15 +7,14 @@
   💡 Always exploring new backend technologies and architectures  
 </p>
 
----
 
-### 🛠 Tech Stack:
+## 🛠 Skills & Abilities:
 - Backend: Django, Django REST Framework
 - Databases: PostgreSQL, MySQL, SQLite
 
----
 
-### 📫 How to reach me:
+
+## 📫 How to reach me:
 - 📧 Email: your.email@example.com
 
 Let's build something amazing together! 🚀
