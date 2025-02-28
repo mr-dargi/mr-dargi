@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Mohammad Reza Dargi </h1>
+<h3 align="center">Junior Backend Developer | Django & Python Enthusiast</h3>
 
-<!--
-**mr-dargi/mr-dargi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Passionate about building scalable web applications  
+  🌍 Open to collaborations & learning new technologies  
+  💡 Always exploring new backend technologies and architectures  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack:
+- Backend: Django, Django REST Framework
+- Databases: PostgreSQL, MySQL, SQLite
+
+---
+
+### 📫 How to reach me:
+- 📧 Email: your.email@example.com
+
+Let's build something amazing together! 🚀
