@@ -2,9 +2,11 @@
 <h3 align="center">Junior Backend Developer | Django & Python Enthusiast</h3>
 
 <p align="center">
-  🚀 Passionate about building scalable web applications  
-  🌍 Open to collaborations & learning new technologies  
-  💡 Always exploring new backend technologies and architectures  
+"Hi! I'm a passionate Junior Backend Developer with a strong interest in building scalable and efficient web applications using Python and Django. Ever since I built my first web project, I have been fascinated by backend development, and I enjoy solving complex problems through clean and maintainable code."
+
+"My core skills include Django, Django REST Framework, PostgreSQL and Git."
+
+"Currently, I'm working on personal and open-source projects, continuously improving my skills and learning from the developer community."
 </p>
 
 
