@@ -10,6 +10,6 @@
 
 
 ## 📌 Featured Projects:
-✅ [Project 1 - API with Django](#) - A fully functional REST API built with Django and DRF.  
-✅ [Project 2 - E-commerce Backend](#) - A scalable backend system for an e-commerce platform.  
-✅ [Project 3 - Blog Platform](#) - A simple but powerful blog backend with JWT authentication.  
+* [Project 1 - API with Django](#) - A fully functional REST API built with Django and DRF.  
+* [Project 2 - E-commerce Backend](#) - A scalable backend system for an e-commerce platform.  
+* [Project 3 - Blog Platform](#) - A simple but powerful blog backend with JWT authentication.  
