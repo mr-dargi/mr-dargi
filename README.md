@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohammad 👋</h1>
 
-- 🔭 Hi! I’m a passionate Junior Web Developer with strong skills in both Frontend and Backend development. I enjoy creating complete, functional, and user-friendly web applications.
+🔭 Hi! I’m a passionate Junior Web Developer with strong skills in both Frontend and Backend development. I enjoy creating complete, functional, and user-friendly web applications.
 
 On the frontend, I work with HTML, CSS, and JavaScript to build responsive and engaging interfaces. On the backend, I use Python and Django to develop secure, efficient, and scalable systems.
 
