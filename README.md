@@ -1,10 +1,18 @@
 <h1 align="center">Hi, I'm Mohammad 👋</h1>
 
-- 🔭 Hi! I'm a passionate Junior Backend Developer with a strong interest in building scalable and efficient web applications using Python and Django. Ever since I built my first web project, I have been fascinated by backend development, and I enjoy solving complex problems through clean and maintainable code. My core skills include Django, Django REST Framework, PostgreSQL and Git. Currently, I'm working on personal and open-source projects, continuously improving my skills and learning from the developer community.
+- 🔭 Hi! I’m a passionate Junior Web Developer with strong skills in both Frontend and Backend development. I enjoy creating complete, functional, and user-friendly web applications.
+
+On the frontend, I work with HTML, CSS, and JavaScript to build responsive and engaging interfaces. On the backend, I use Python and Django to develop secure, efficient, and scalable systems.
+
+While I’m capable of delivering full-stack projects, my goal is to join a company in one primary role—either frontend or backend—bringing my expertise in the other as an additional advantage to the team.
+
+I’m also expanding my skills to include React, TypeScript, and Tailwind CSS, with the goal of building a full project using a Django-powered API.
+
+My core skills include HTML, CSS, JavaScript, Django, Django REST Framework, and Git.
 
 ## 🛠 Tech Stack:
-* Programming Languages: Python
-* Frameworks: Django
+* Front-End: HTML5, CSS3, JavaScript(ES6), Bootstrap
+* Back-End: Python, Django
 * Databases: PostgreSQL, MySQL
 * Tools: Git, Linux
 
