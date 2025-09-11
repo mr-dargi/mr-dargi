@@ -1,23 +1,25 @@
 <h1 align="center">Hi, I'm Mohammad 👋</h1>
 
-🔭 Hi! I’m a passionate Junior Web Developer with strong skills in both Frontend and Backend development. I enjoy creating complete, functional, and user-friendly web applications.
+🔭 Hi! I’m a Junior Frontend Developer passionate about building responsive, user-friendly, and modern web interfaces.
 
-On the frontend, I work with HTML, CSS, and JavaScript to build responsive and engaging interfaces. On the backend, I use Python and Django to develop secure, efficient, and scalable systems.
+I specialize in HTML, CSS, and JavaScript, and I’m expanding my expertise with React, TypeScript, and Tailwind CSS to create clean, scalable, and interactive applications.
 
-While I’m capable of delivering full-stack projects, my goal is to join a company in one primary role—either frontend or backend—bringing my expertise in the other as an additional advantage to the team.
+Alongside my frontend focus, I also have hands-on experience with Python, Django, and REST APIs, which allows me to understand the bigger picture of web applications and collaborate effectively with backend teams.
 
-I’m also expanding my skills to include React, TypeScript, and Tailwind CSS, with the goal of building a full project using a Django-powered API.
+I have built full-stack projects, such as a feature-rich blog platform with authentication, role-based access, premium content, and search functionality — showcasing both my frontend creativity and backend problem-solving.
 
-My core skills include HTML, CSS, JavaScript, Django, Django REST Framework, and Git.
+## Core Skills:
 
-## 🛠 Tech Stack:
-* Front-End: HTML5, CSS3, JavaScript(ES6), Bootstrap
-* Back-End: Python, Django
-* Databases: PostgreSQL, MySQL
-* Tools: Git, Linux
+Frontend: HTML, CSS, JavaScript, Responsive Design, React (in progress), TypeScript (in progress), Tailwind CSS (in progress)
+
+Backend: Python, Django, Django REST Framework, PostgreSQL
+
+Tools: Git, GitHub, Version Control
+
+🚀 I’m eager to grow as a frontend developer while bringing my backend knowledge as an additional advantage to the team. Let’s connect!
 
 
 ## 📌 Featured Projects:
 * [Project 1 - API with Django](#) - A fully functional REST API built with Django and DRF.  
 * [Project 2 - E-commerce Backend](#) - A scalable backend system for an e-commerce platform.  
-* [Project 3 - Blog Platform](#) - A simple but powerful blog backend with JWT authentication.  
+* [Project 3 - Django Blog](https://github.com/mr-dargi/djangoblog) - A simple but powerful blog backend with JWT authentication.  
