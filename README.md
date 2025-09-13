@@ -20,6 +20,4 @@ Tools: Git, GitHub, Version Control
 
 
 ## 📌 Featured Projects:
-* [Project 1 - API with Django](#) - A fully functional REST API built with Django and DRF.  
-* [Project 2 - E-commerce Backend](#) - A scalable backend system for an e-commerce platform.  
-* [Project 3 - Django Blog](https://github.com/mr-dargi/djangoblog) - A simple but powerful blog backend with JWT authentication.  
+* [Project 1 - Django Blog](https://github.com/mr-dargi/djangoblog) - A simple but powerful blog backend.  
