@@ -24,13 +24,10 @@
 ### 📌 Featured Projects:
 
 📝 **Blog Platform (FBV-based Django Project)**  
-A classic blog system built using **Function-Based Views (FBV)** in Django, focusing on fundamentals like authentication, CRUD operations, and clean project structure.  
-🔗 https://github.com/mr-dargi/django-blog
+A classic blog system built using **Function-Based Views (FBV)** in Django, focusing on fundamentals like authentication, CRUD operations, and clean project structure. 🔗 https://github.com/mr-dargi/django-blog
 
 👥 **Social Platform (CBV-based Django Project)**  
-A social networking backend built with **Class-Based Views (CBV)**, implementing user interactions, follow system, and modular architecture for scalability - (In Progress).
-🔗 https://github.com/mr-dargi/django-social 
+A social networking backend built with **Class-Based Views (CBV)**, implementing user interactions, follow system, and modular architecture for scalability - (In Progress). 🔗 https://github.com/mr-dargi/django-social 
 
 ⚡ **REST API Project (Django REST Framework)**  
-A fully structured backend API using **DRF**, including authentication (JWT), permissions, serializers, and optimized endpoints for production-level usage.  
-🔗 Future Goal 
+A fully structured backend API using **DRF**, including authentication (JWT), permissions, serializers, and optimized endpoints for production-level usage. 🔗 Future Goal 
