@@ -1,39 +1,36 @@
-<h1 align="center">Hi there! 👋 I'm Mohammad reza </h1>
+<h1 align="center">Hi there! 👋 I'm Mohammad reza</h1>
 <h3 align="center">Junior Backend Developer | Django & Python Enthusiast</h3>
 
-<p>
-  🚀 Passionate about building scalable web applications  
-  🌍 Open to collaborations & learning new technologies  
-  💡 Always exploring new backend technologies and architectures  
+<p align="center">
+  I’m a backend developer focused on building clean, scalable, and maintainable web applications using Django.  
+  I enjoy turning complex problems into simple backend solutions and improving system architecture step by step.  
+  Currently, I’m deepening my skills in Django, REST APIs, and modern backend design patterns.
 </p>
 
----
-### Skills:
-Python, Django, Django REST Framework, PostgreSQL
-
-Tools: Git, GitHub, Version Control
-
-🚀 I’m eager to grow as a frontend developer while bringing my backend knowledge as an additional advantage to the team. Let’s connect!
+<p align="center">
+  🚀 Passionate about backend engineering & system design    
+  📚 Always learning and improving my architecture skills  
+</p>
 
 ---
 
 ### 🛠 Tech Stack:
 - **Backend:** Django, Django REST Framework, FastAPI  
-- **Databases:** PostgreSQL, MySQL 
-- **Tools & DevOps:** Git, Linux 
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Tools:** Git, Linux
 
 ---
 
 ### 📌 Featured Projects:
-✅ **[Project 3 - Blog Platform](https://github.com/yourusername/project3)** - A simple but powerful blog backend .  
-✅ **[Project 2 - Social Platform](https://github.com/yourusername/project2)** - A scalable backend system for an e-commerce platform.  
-✅ **[Project 1 - API with Django](https://github.com/yourusername/project1)** - A fully functional REST API built with Django and DRF.
 
----
+📝 **Blog Platform (FBV-based Django Project)**  
+A classic blog system built using **Function-Based Views (FBV)** in Django, focusing on fundamentals like authentication, CRUD operations, and clean project structure.  
+🔗 https://github.com/yourusername/project1  
 
-### 📫 How to reach me:
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)  
-- 📧 Email: your.email@example.com  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+👥 **Social Platform (CBV-based Django Project)**  
+A social networking backend built with **Class-Based Views (CBV)**, implementing user interactions, follow system, and modular architecture for scalability.  
+🔗 https://github.com/yourusername/project2  
 
-Let's build something amazing together! 🚀
+⚡ **REST API Project (Django REST Framework)**  
+A fully structured backend API using **DRF**, including authentication (JWT), permissions, serializers, and optimized endpoints for production-level usage.  
+🔗 https://github.com/yourusername/project3  
